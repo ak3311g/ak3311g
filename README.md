@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankit13657391" target="blank"><img src="https://img.shields.io/twitter/follow/ankit13657391?logo=twitter&style=for-the-badge" alt="ankit13657391" /></a> </p>
 
-- 🔭 I’m currently working on **A Cart Game which is a freelancer project and really wanted to complete that project.**
+- 🔭 I’m currently working on **A Story Narrative Game which is a hackathon project and really wanted to complete that project.**
 
-- 🌱 I’m currently learning **Unity 3D , ReactJS, AdminJS, Backend frameworks like expressjs and also about how a company works.**
+- 🌱 I’m currently learning **Unity 3D , ReactJS, NextJS, Backend frameworks like expressjs and also about how a company works.**
 
 - Let's connect and collaborate on **exciting projects! Feel free to reach out if you're interested in frontend development, UI/UX design, or want to discuss new ideas. Together, we can create unique digital experiences.**
 
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **React, C++, JavaScript, Game Development**
 
-- 📫 How to reach me **You can find me on LinkedIn or reach out via email at ak3311g@gmail.com. I'm always open to new opportunities and connections. Let's build something incredible together!**
+- 📫 How to reach me **You can find me on LinkedIn or reach out via email at ankitkumarb783@gmail.com. I'm always open to new opportunities and connections. Let's build something incredible together!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
